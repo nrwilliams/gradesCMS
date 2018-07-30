@@ -35,6 +35,7 @@ gem 'draper'
 gem 'pundit'
 gem 'active_admin_editor', git: 'https://github.com/boontdustie/active_admin_editor'
 gem 'font-awesome-rails'
+gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
 
 
